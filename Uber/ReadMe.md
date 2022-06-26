@@ -64,6 +64,6 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/rissalhedna](https://github.com/rissalhedna/Uber-clone-react-native)
+Project Link: [https://github.com/rissalhedna/Uber-clone-react-native](https://github.com/rissalhedna/Uber-clone-react-native)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
