@@ -1,38 +1,19 @@
-<div id="top"></div>
+## Introduction
+In this project, we will use React Native and Expo to replicate the front end of the popular ride-sharing app Uber. Our goal is to create a mobile app that has the basic functionalities of the Uber app, including the ability to request rides, view driver information, and track the ride in real-time.
 
+By using React Native and Expo, we will be able to develop a cross-platform app that can be used on both iOS and Android devices. Expo provides a set of tools and services that make it easier to develop and distribute React Native apps, allowing us to focus on building the app itself.
 
-<br />
-<div align="center">
-<h3 align="center">Uber clone front-end with React Native</h3>
+In addition to the core features of the Uber app, we will also use Google Maps APIs to display the map and calculate distances between locations. This will allow us to provide accurate information to users and ensure that the app functions properly.
 
-  <p align="center">
-    This is a front end that replicates the basic functionalities of the transportation app Uber, using React Native and dedicated libraries and APIs
-  </p>
-</div>
+We also plan to develop an "UberEats" section in the future, which will allow users to order food and have it delivered to their location. This will expand the functionality of the app and provide an additional service to users.
 
+## Tools
+To achieve our goals, we will use a variety of tools and technologies, including:
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [React Native](https://reactnative.dev)
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
+1. React Native: a framework for building cross-platform mobile applications using JavaScript
+2. Expo: a set of tools and services for developing and distributing React Native apps
+3. Google Maps APIs: a collection of APIs for displaying maps, calculating distances, and other location-based services
+3. 
 
 ### Prerequisites
 
