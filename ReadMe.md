@@ -43,7 +43,5 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- CONTACT -->
 ## Contact 
-You can contact me through the following links:
 
-[Linkedin](https://www.linkedin.com/in/mohamed-rissal-hedna-949486121/)
-[Instagram](https://www.instagram.com/rissalhedna/)
+You can contact me either through [LinkedIn](https://www.linkedin.com/in/mohamed-rissal-hedna-949486121/) or [Instagram](https://www.instagram.com/rissalhedna/)
