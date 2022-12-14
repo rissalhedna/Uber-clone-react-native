@@ -42,8 +42,8 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- CONTACT -->
-## Contact
+## Contact 
+You can contact me through the following links:
 
-Project Link: [https://github.com/rissalhedna/Uber-clone-react-native](https://github.com/rissalhedna/Uber-clone-react-native)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+[Linkedin](https://www.linkedin.com/in/mohamed-rissal-hedna-949486121/)
+[Instagram](https://www.instagram.com/rissalhedna/)
