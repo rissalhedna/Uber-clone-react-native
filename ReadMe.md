@@ -13,7 +13,6 @@ To achieve our goals, we will use a variety of tools and technologies, including
 1. React Native: a framework for building cross-platform mobile applications using JavaScript
 2. Expo: a set of tools and services for developing and distributing React Native apps
 3. Google Maps APIs: a collection of APIs for displaying maps, calculating distances, and other location-based services
-3. 
 
 ### Prerequisites
 
